@@ -83,7 +83,7 @@ header{
 #titulo{
 	align-items: center;
 	text-align: center;
-	
+	position: static;
 	
 	background-color: rgba(27, 7, 1, 0.623);
 	width: 100%;
@@ -123,35 +123,63 @@ header{
 	
 }
 #critica{
-	background-color: rgb(45, 97, 97);
+
 	width: 200px;
 	height: 200px;
 
 }
+#critica img{ 
+	width: 100%;
+	min-width: 100%;
+}
+
 #entrevistas{
-	background-color: rgb(22, 107, 107);
+
 	width: 200px;
 	height: 200px;
 
 }
+
+#entrevistas img{ 
+	width: 100%;
+	min-width: 100%;
+}
+
 #videos{
-	background-color: rgb(9, 46, 46);
+	
 	width: 200px;
 	height: 200px;
 
 }
+
+#videos img{ 
+	width: 100%;
+	min-width: 100%;
+}
+
 #otros1{
-	background-color: rgb(47, 107, 107);
-	width: 200px;
+	
+	width: 170px;
 	height: 200px;
 
 }
+
+#otros1 img{ 
+	width: 100%;
+	min-width: 100%;
+}
+
 #otros2{
-	background-color: rgb(93, 114, 114);
+	
 	width: 200px;
 	height: 200px;
 
 }
+#otros2 img{ 
+	width: 100%;
+	min-width: 100%;
+}
+
 #ww_fe7813bc102c5{ margin: a;
 left: 65%;
 margin-top: 1500%;}
